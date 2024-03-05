@@ -1,30 +1,30 @@
 .divA {
-    background-color: #f4b33b;
-    width: 500px;
-    height: 500px;
+    background-color: #17c3ee;
+    width: 800px;
+    height: 300px;
 }
 
 .divB {
-    background-color: #63b663;
-    width: 50%;
-    height: 50%;
+    background-color: #fcff57;
+    width: 80%;
+    height: 20%;
 }
 
 .paragrafo {
-    color: #fff; background-color: #ff0000;
-    font-size: 25px; 
-    font-family: monospace; 
-    font-weight: bold;
+    color: #fff; background-color: #eb0aff;
+    font-size: 12px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: 700;
 }
 
 .divC{
-    width: 50%; 
-    height: 50vw;
-     background-color: rgb(154, 154, 255);
+    width: 80%; 
+    height: 10vw;
+    background-color: rgb(3, 3, 82);
 }
 
 .divD{
-    width: 75VW;
-    height: 50%; 
-    background-color: rgb(240, 90, 82);
+    width: 15VW;
+    height: 90%; 
+    background-color: rgb(229, 255, 0);
 }
